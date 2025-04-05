@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm B Dhana Aswini</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
